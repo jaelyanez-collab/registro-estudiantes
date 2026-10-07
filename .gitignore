@@ -1,0 +1,9 @@
+# Ignorar dependencias
+node_modules/
+*/node_modules/
+
+# Ignorar archivos de entorno y builds
+.env
+build/
+dist/
+.DS_Store
